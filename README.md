@@ -5,6 +5,12 @@ improved jquery autocomplete for company search &amp; suggestion among  tables
 
 The script aims to help user to search for a company using different information from the company.
 
+##Platforms
+
+* Jquery - autocomplete
+* PHP
+* Mysql - MyISAM
+
 ##Description of Problem & Aim
 
 The companies have long or similar names and sometimes it is difficult to remember. The project is to write down a code
